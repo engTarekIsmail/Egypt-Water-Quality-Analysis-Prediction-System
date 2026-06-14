@@ -84,7 +84,10 @@ st.markdown(
 # LOAD MODEL
 # =========================
 
-model = joblib.load("water_quality_model.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(BASE_DIR, "water_quality_model.pkl")
+
+model = joblib.load(model_path)
 feature_names = joblib.load("feature_names.pkl")
 
 # =========================
