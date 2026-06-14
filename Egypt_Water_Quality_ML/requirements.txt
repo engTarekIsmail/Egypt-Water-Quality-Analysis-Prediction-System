@@ -5,3 +5,4 @@ scikit-learn
 joblib
 openai
 plotly
+xgboost
