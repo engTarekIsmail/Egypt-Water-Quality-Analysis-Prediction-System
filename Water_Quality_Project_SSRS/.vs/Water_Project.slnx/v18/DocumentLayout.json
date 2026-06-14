@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\3- Water Quality Compliance by Governorate.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|solutionrelative:3- Water Quality Compliance by Governorate.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\2- Production Records.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|solutionrelative:2- Production Records.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\1- Egypt Water Companies.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|solutionrelative:1- Egypt Water Companies.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\6- Egypt Water Sector \u2014 Executive Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{B069FFD6-60A2-CE2E-85CE-B110EB9BB694}|Water_Project.rptproj|solutionrelative:6- Egypt Water Sector \u2014 Executive Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3- Water Quality Compliance by Governorate.rdl [Design]",
+              "DocumentMoniker": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\3- Water Quality Compliance by Governorate.rdl",
+              "RelativeDocumentMoniker": "3- Water Quality Compliance by Governorate.rdl",
+              "ToolTip": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\3- Water Quality Compliance by Governorate.rdl [Design]",
+              "RelativeToolTip": "3- Water Quality Compliance by Governorate.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-25T14:35:30.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2- Production Records.rdl [Design]",
+              "DocumentMoniker": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\2- Production Records.rdl",
+              "RelativeDocumentMoniker": "2- Production Records.rdl",
+              "ToolTip": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\2- Production Records.rdl [Design]",
+              "RelativeToolTip": "2- Production Records.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-14T14:39:00.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1- Egypt Water Companies.rdl [Design]",
+              "DocumentMoniker": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\1- Egypt Water Companies.rdl",
+              "RelativeDocumentMoniker": "1- Egypt Water Companies.rdl",
+              "ToolTip": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\1- Egypt Water Companies.rdl [Design]",
+              "RelativeToolTip": "1- Egypt Water Companies.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-14T14:38:54.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6- Egypt Water Sector \u2014 Executive Summary.rdl [Design]",
+              "DocumentMoniker": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\6- Egypt Water Sector \u2014 Executive Summary.rdl",
+              "RelativeDocumentMoniker": "6- Egypt Water Sector \u2014 Executive Summary.rdl",
+              "ToolTip": "D:\\ITI 4 Month\\Graduation Project\\GP\\Water_Quality_Project_SSRS\\6- Egypt Water Sector \u2014 Executive Summary.rdl [Design]",
+              "RelativeToolTip": "6- Egypt Water Sector \u2014 Executive Summary.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-05T07:15:50.324Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
